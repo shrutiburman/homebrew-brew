@@ -5,7 +5,7 @@ class Twilio < Formula
   homepage "https://github.com/twilio/twilio-cli"
   url "https://twilio-cli-prod.s3.amazonaws.com/twilio-v5.0.0/twilio-v5.0.0.tar.gz"
   version "5.0.0"
-  sha256 "84da762d66a1796ccf96b06ce67fe517c7ef0f79e22a7c9b46f971b98dca2c50"
+  sha256 "59e62c5c2ea02ece374f3abff469cdec6b6b135f56161cfc8def142752207749"
   depends_on "node"
 
   def install
